@@ -20,3 +20,33 @@ npm install
 npm run dev/start
 Front runs 
 http://localhost:3002
+
+🏗 Architecture Overview
+📂 Project Structure
+content-publishing-system-front/
+│
+├── frontend/
+         app
+│   ├── components/
+│   ├── hooks/
+│   ├── pages/
+│   └── utils/
+     --service
+      --types
+
+      Frontend follows:
+
+Component-based architecture
+React Query for data fetching
+Reusable hooks
+Modal-based form management
+app routing=>content publishingsystem component=>hooks=>service=>types
+
+✨ Implemented Features
+
+Rich text editor (React Quill)
+
+Markdown preview
+Autosave drafts (localStorage)
+Article filtering & pagination
+Grid/List view toggle

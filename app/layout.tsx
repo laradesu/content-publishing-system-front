@@ -7,8 +7,8 @@ import Providers from './providers';
 
 export const metadata: Metadata = {
     title: {
-        template: '%s | Agsa - Agsa website',
-        default: 'Agsa - Agsa Website',
+        template: '%s | CPS - CPS website',
+        default: 'CPS - CPS Website',
     },
     icons:{
     icon:"/favicon.png"

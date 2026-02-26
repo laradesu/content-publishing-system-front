@@ -38,8 +38,8 @@ const Setting = () => {
                             <IconX className="h-5 w-5" />
                         </button>
 
-                        <h4 className="mb-1 dark:text-white">Agsa Admin Setting</h4>
-                        <p className="text-white-dark">The Agsa Admin Settings module provides administrators with a centralized interface to configure system preferences that control the behavior, appearance, and functionality of the platform.</p>
+                        <h4 className="mb-1 dark:text-white">CPS Admin Setting</h4>
+                        <p className="text-white-dark">The CPS Admin Settings module provides administrators with a centralized interface to configure system preferences that control the behavior, appearance, and functionality of the platform.</p>
                     </div>
 
                     <div className="mb-3 rounded-md border border-dashed border-white-light p-3 dark:border-[#1b2e4b]">

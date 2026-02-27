@@ -11,7 +11,7 @@ TailwindCSS
 
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
-git clone https://github.com/YOUR_USERNAME/content-publishing-system-front.git
+git clone https://github.com/laradesu/content-publishing-system-front.git
 cd content-publishing-system-front
 ▶️ How to Run the Project
 🔹 frontend Setup
